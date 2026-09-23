@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "03888657783b86c23b037019",
+  "owner": "yrpbpx",
+  "repo": "page-33a68847fd3fa3330b65721e",
+  "title": "叱咤風雲",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "33a68847fd3fa3330b65721e",
+      "a": "叱咤風雲",
+      "b": "2027官方最新地址导航",
+      "entity": "叱咤風雲",
+      "brand": "叱咤風雲",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8e93f1a776653cc200f1b75f95f4940ea3f168490782822b3a74e6f35293bc16",
+      "content": {
+        "primary_entity": "叱咤風雲",
+        "keyword1": "叱咤風雲",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，叱咤風雲提供基础版、旗舰版和团队版三档套餐，分别适配轻量浏览、多设备流媒体和团队协作场景。套餐按月度或年度计费，支持多台设备同时在线，并针对IPLC专线和流媒体解锁做了线路区分。",
+          "AI_HERO_SUBTITLE": "叱咤風雲多设备加速方案",
+          "AI_HERO_INTRO": "叱咤風雲专注于为跨境访问提供稳定的加速服务，套餐覆盖个人到团队的不同需求。用户可根据设备数量和流量消耗选择基础版、旗舰版或团队版，并按月付或年付灵活订阅。",
+          "AI_VISUAL_TITLE": "叱咤風雲套餐速览",
+          "AI_HIGHLIGHT_1": "基础版月付15元含100GB",
+          "AI_HIGHLIGHT_2": "旗舰版月付35元含300GB",
+          "AI_HIGHLIGHT_3": "团队版月付85元含1000GB",
+          "AI_FEATURES_TITLE": "叱咤風雲套餐特点",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三个维度对比，帮助快速定位合适的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合日常浏览，旗舰版300GB兼顾流媒体，团队版1000GB满足多人大流量。",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版可支持20台同时在线。",
+          "AI_FEATURE_TITLE_3": "选订阅周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算：基础版150元/年、旗舰版350元/年、团队版850元/年。",
+          "AI_CLIENTS_TITLE": "叱咤風雲客户端选择",
+          "AI_CLIENTS_INTRO": "根据常用设备选择对应客户端，在客户端内导入订阅地址即可使用。",
+          "AI_PLANS_TITLE": "叱咤風雲套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版和团队版在流量、设备数与线路类型上有明显区别，可按使用强度选择。",
+          "AI_GUIDE_TITLE": "叱咤風雲订阅步骤",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备需求、按客户端文档配置订阅三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量和在线设备数量，在基础版、旗舰版、团队版中选定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本支持订阅导入，团队版需核对同时在线设备上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中粘贴订阅地址，按客户端文档完成节点更新与连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "叱咤風雲订阅选择",
+          "AI_CLOSING_TEXT": "根据设备数与流量需求选定套餐，按月或按年订阅后即可导入客户端使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人或双人轻度使用，每月100GB流量与3台同时在线设备，能覆盖日常网页浏览与基础流媒体。如果有多人共享或更高带宽需求，可升级至旗舰版。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，适合手机、平板、笔记本等常用设备。团队版支持20台设备，适合小型团队或家庭多终端场景。可按设备数量选择版本。",
+          "AI_FAQ_ANSWER_3": "基础版节点池为普通线路节点。旗舰版提供IPLC专线节点，针对游戏加速与低延迟场景优化，节点池覆盖更广。团队版配备VIP专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "年付方案相比月付更划算。基础版年付¥150，旗舰版年付¥350，团队版年付¥850。一次性支付全年费用，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "按设备系统选择对应客户端，苹果设备常用Shadowrocket、Quantumult X等，安卓设备可用v2rayNG、Clash for Android，Windows与macOS可用Clash Verge、v2rayN等。具体以客户端文档中的订阅导入说明为准。",
+          "AI_FAQ_QUESTION_1": "基础版流量够用吗？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量怎么选？",
+          "AI_FAQ_QUESTION_3": "旗舰版和团队版线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "年付比月付划算多少？",
+          "AI_FAQ_QUESTION_5": "不同设备用什么客户端？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "acqgoat.cn",
+    "host": "acqgoat.cn"
+  },
+  "file_hashes": {
+    "index.html": "a54025b33d59d61d6ceb990d50585e1af7618605a2090fe36b43797f841ab61b",
+    "sitemap.xml": "68a21dc9d2aee5714d8896ac1af334381eeda87f10143fe652c8a74d1a1536c6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b0a8a1fd2863dcd4187f33ae9dc79ea8212b20f993b8ab07f065b5e22d3f62bc",
+    "robots.txt": "23cafb1b491ced0c40f84d740f345cfc0b4ed374cd730413157b3503fb4b923c",
+    "4e45741eb7be2599b42730642bac0d1c.txt": "d6bf4c15ca961c3c9a555717ee2ff44ff1867f849876396c0d332953043a64b7"
+  },
+  "revision": "3214994e97917cb3c1ef67e8b56bbf87298dd68b16cc76212e0d45b520028c3a"
+}
